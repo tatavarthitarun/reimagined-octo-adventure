@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.hadiyarajesh.composetemplate"
+    namespace = "com.tatav.rotolearning"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.hadiyarajesh.composetemplate"
+        applicationId = "com.tatav.rotolearning"
         minSdk = 21
         targetSdk = 33
         versionCode = 1
